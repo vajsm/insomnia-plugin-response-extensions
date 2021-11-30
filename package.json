@@ -1,0 +1,19 @@
+{
+    "name": "insomnia-plugin-response-extensions",
+    "version": "1.0.0",
+    "description": "Reference values (such as headers or OAuth2 token) from other request's responses - extensions",
+    "publisher": {
+        "name": "vajsm"
+    },
+    "license": "MIT",
+    "repository": "",
+    "main": "index.js",
+    "insomnia": {
+        "name": "response-extensions",
+        "displayName": "Response extensions",
+        "description": "Reference values (such as headers or OAuth2 token) from other request's responses - extensions"
+    },
+    "dependencies": {
+        "jsonpath-plus": "^6.0.1"
+    }
+}
