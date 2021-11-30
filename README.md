@@ -30,7 +30,7 @@ where:
 * **filter** - JSONPath filter of the object associated with particular attribute, e.g.: `$.accessToken` for OAuth2
 
 #### **Or, configure in the visual editor:**
-![Sample image](./assets/img03.png)
+![Sample image](assets/img03.png)
 
 ---
 
@@ -96,11 +96,11 @@ This is the only place you need to configure the OAuth2 details such as for exam
 
 2. Configure an environment variable to reference the token
 
-![Sample image](./assets/img01.png)
+![Sample image](assets/img01.png)
 
 You can do it in your base environment, on a sub environment or even on a folder level:
 
-![Sample image](./assets/img02.png)
+![Sample image](assets/img02.png)
 
 This is especially handy if you have a collection that consists of multiple folders, where each of them reaches a different service and you need to provide different credentials for each. 
 
@@ -119,7 +119,7 @@ Directory tree:
 
 3. Configure the bearer token on your requests:
 
-![Sample image](./assets/img04.png)
+![Sample image](assets/img04.png)
 
 Now you can utilize Insomnia's built-in OAuth2 mechanisms and have your requests chained. No need to configure every single request with detailed OAuth2 settings nor to copy-paste anything.
 
