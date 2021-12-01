@@ -127,6 +127,9 @@ Now you can utilize Insomnia's built-in OAuth2 mechanisms and have your requests
 
 This plugin is licensed under the MIT license.
 
-If you've found a bug or have a feature request, feel free to open an issue: 
+If you've found a bug or have a feature request, feel free to open an issue: https://github.com/vajsm/insomnia-plugin-response-extensions/issues
 
 If you use and like the extension, please give it a star, so that I know there are people out there who may appreciate new features! Thanks :)
+
+GitHub repository: https://github.com/vajsm/insomnia-plugin-response-extensions
+
