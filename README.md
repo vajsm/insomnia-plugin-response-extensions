@@ -1,6 +1,6 @@
 # Insomnia response extensions template tag
 
-[![Npm Version](https://img.shields.io/npm/v/insomnia-plugin-response-extensions.svg)](https://npmjs.com/package/insomnia-plugin-response)
+[![Npm Version](https://img.shields.io/npm/v/insomnia-plugin-response-extensions.svg)](https://www.npmjs.com/package/insomnia-plugin-response-extensions)
 
 This simple community plugin adds a template tag which makes it possible to reference additional attributes of another request's response in environmental variables.
 
